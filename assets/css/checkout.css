@@ -1,0 +1,190 @@
+.check_out_container{
+    max-width: 1126px !important;
+}
+.checkout_section{
+    margin: 60px 0px;
+}
+.checkout_content {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.shipping_title{
+    font-size: 16px;
+    line-height: 18px;
+    color: #1E272E;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.shiphing_address{
+    width: 100%;
+}
+.shiphing_address{}
+.shipping_address_wrapper{}
+.shipping_title{}
+.input_select_address{
+    height: 36px;
+    width: 100%;
+}
+.input_control_a {
+    height: 100%;
+    width: 100%;
+    outline: none;
+    border: none;
+    background-color: rgb(30 39 46 / 2%);
+    font-size: 14px;
+    padding: 10px 12px;
+}
+.select_control {
+    font-size: 14px;
+    color: rgb(30 39 46 / 65%);
+    font-weight: 500;
+    padding: 5px 10px;
+}
+
+.shipping_address_btn{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin: 25px 0px;
+}
+.shipping_address_office{
+   background-color: rgb(30 39 46 / 5%);
+}
+.shipping_address_home{
+    background-color: rgb(149 202 51 / 20%);
+}
+.btn {
+    padding: 10px 15px;
+    display: inline-flex;
+    gap: 10px;
+    cursor: pointer;
+}
+.btn span svg {
+    display: flex;
+}
+.btn span {
+    color: #1E272E;
+    font-size: 14px;
+    line-height: 16px;
+}
+
+.shpping_address_input_area{
+    height: 36px;
+    width: 100%;
+}
+.shipping_address_form_inner{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 25px;
+    flex-direction: column;
+    margin-bottom: 25px;
+}
+
+.shipping_submit_btn{
+    margin-top: 40px;
+}
+.shippting_btn_title{
+    font-size: 14px;
+    line-height: 18px;
+    color: #1E272E;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+.shipping_btn_wrapper {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+}
+.sipping_btn{
+    padding: 10px 11px;
+    background-color: rgb(30 39 46 / 5%);
+    display: inline-block;
+}
+.sipping_btn a {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.sipping_btn span{
+    font-size: 14px;
+    color: #1E272E;
+    line-height: 24px;
+}
+
+.payment_info{
+    background-color: rgb(30 39 46 / 5%);
+    padding: 30px 25px;
+    max-width: 360px;
+    width: 100%;
+}
+.payment_info_title{
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 18px;
+    color: #1E272E;
+    margin-bottom: 20px;
+}
+.payment_info_details{
+    margin-bottom: 30px;
+}
+.payment_details_text{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 15px;
+}
+.payment_details_text:last-child{
+    margin-bottom: 0px;
+}
+.payment_details_text span{
+    font-size: 14px;
+    line-height: 24px;
+    color: rgb(30 39 46 / 50%);
+}
+.payment_text_color span{
+    color: #1E272E !important;
+}
+
+.coupon_code{}
+.coupon_code_input{
+    height: 36px;
+}
+.coupon_code {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.coupon_apply_btn {
+    height: 36px;
+    padding: 10px 15px;
+    background-color: #1E272E;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+.coupon_apply_btn a{
+    color: #FFFFFF;
+    font-size: 14px;
+    line-height: 24px;
+    display: flex;
+}
+
+.checkout_btn{
+    height: 36px;
+    background-color: #95CA33;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 30px;
+}
+.checkout_btn a{
+    color: #FFFFFF;
+    font-size: 14px;
+    line-height: 24px;
+    display: block;
+}

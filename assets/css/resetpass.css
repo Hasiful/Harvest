@@ -1,0 +1,96 @@
+.reset_password_page{
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    height: 100vh;
+    width: 100%;
+    background-color: #1E272E;
+}
+.reset_pass_container{
+    height: 100vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0px 20px;
+}
+.reset_pass_wrapper{
+    max-width: 420px;
+    width: 100%;
+    background-color: #FFFFFF;
+    padding: 30px;
+}
+.reset_title{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 20px;
+}
+.reset_title_text p{
+    font-size: 16px;
+    font-weight: bold;
+    color: #1E272E;
+}
+.reset_title_button span svg{
+    height: 13px;
+    width: 13px;
+    display: flex;
+}
+.trywith{
+    margin-bottom: 10px;
+}
+.trywith p {
+    color: rgb(30 39 46 / 10%);
+    font-size: 12px;
+}
+
+.reset_mail_phone{
+    margin-bottom: 20px;
+}
+.reset_mail_phone span{
+    color: #95CA33;
+    font-size: 14px;
+}
+.reset_mail{
+    color: rgb(30 39 46 / 10%) !important;
+    margin-right: 15px;
+}
+
+.reset_email_input{
+    height: 36px;
+}
+.reset_input_control{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(30 39 46 / 5%);
+    padding: 12px 10px;
+    border: none;
+    outline: none;
+}
+.reset_submit_btn {
+    margin-top: 29px;
+}
+.reset_submit_btn a{
+    color: #FFFFFF;
+    font-size: 14px;
+    line-height: 26px;
+    font-weight: 500;
+    padding: 10px 20px;
+    background-color: #95CA33;
+}
+.reset_divider{
+    margin-top: 29px;
+    border-bottom: 1px solid rgb(30 39 46 / 10%);
+}
+
+.sign_in_reset{
+    margin-top: 25px;
+    text-align: center;
+}
+.sign_in_reset p{
+    font-size: 14px;
+    color: #1E272E;
+}
+.sign_in_reset span{
+    font-weight: bold;
+}

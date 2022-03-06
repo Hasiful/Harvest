@@ -1,0 +1,28 @@
+.reset_otp_box{
+    
+}
+.otp_box_title {
+    margin-bottom: 20px;
+}
+.otp_box_title p{
+    color: #1E272E;
+    font-size: 14px;
+    line-height: 25px;
+    text-align: center;
+}
+
+.reset_input_box{
+    height: 36px;
+    max-width: 150px;
+    width: 100%;
+    margin: 0 auto;
+}
+.send_message{
+    margin-top: 10px;
+    text-align: center;
+}
+.send_message p{
+    color: #95CA33;
+    font-size: 14px;
+    line-height: 24px;
+}

@@ -1,0 +1,26 @@
+.addto_cart_btn_wish{
+    padding: 6px 15px;
+    display: inline-block;
+    border: 1px solid #95CA33;
+    cursor: pointer;
+}
+.addto_cart_btn_wish a{
+    font-size: 14px;
+    line-height: 18px;
+    color: #95CA33;
+    display: block;
+}
+.wish_variation{
+    display: flex;
+    align-items: center;
+    flex-direction: row !important;
+    justify-content: space-between;
+    width: 100%;
+}
+.wishlist_product {
+    width: 100% !important;
+}
+.wish_container{
+    max-width: 980px !important;
+    width: 100%;
+}

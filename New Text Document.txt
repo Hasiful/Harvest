@@ -1,0 +1,38 @@
+widget list:
+	1. Header
+		1. auth
+			1. sign in  //done
+			2. sign out  //done
+			3. reset  //done
+			4. reset otp //done 
+		2. search //done
+		3. sidebar  //done
+	2. Footer
+	Home page:
+		1. Flash sale  //done
+		2. Combo Offer //done
+		3. Trending  //done
+		4. Top Category  //done
+		5. All Products  //done
+
+pages:
+	1. Flash sale  //done
+	2. Combo Offer //done, Combo details //done 
+	3. Trending  //done
+	4. Category  //done
+	5. Sub category  //done
+	6. Items Details  //done
+	7. All item  //done
+
+cart:
+	1. cart page //done
+	2. checkout page //done
+
+wishlist:
+	1. wishlist //done
+
+Accounts:
+	1. Account settings //done
+	2. order history   //done
+	3. change password //done
+	4. sign out //done

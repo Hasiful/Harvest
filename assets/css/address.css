@@ -1,0 +1,124 @@
+.address_page {
+    height: 100vh;
+    width: 100%;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    background-color: rgb(30 39 46 / 85%);
+}
+.adress_page_container{
+    height: 100vh;
+    width: 100%;
+    overflow-y: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0px 20px;
+}
+
+.address_page_wrapper{
+    max-width: 410px;
+    width: 100%;
+    padding: 20px;
+    background-color: #FFFFFF;
+}
+
+.address_page_title {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+.adrress_title_name{}
+.adrress_title_name p{
+    font-size: 16px;
+    line-height: 21px;
+    font-weight: bold;
+    color: #1E272E;
+}
+
+.adrress_title_btn span svg{
+    height: 13px;
+    width: 13px;
+    display: flex;
+}
+
+.address_btn{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 25px;
+}
+.adress_home_btn {
+    background-color: rgb(149 202 51 / 20%);
+}
+.adress_ofice_btn{
+    background-color: rgb(30 39 46 / 5%);
+}
+.btn{
+    padding: 10px 15px;
+    display: inline-flex;
+    gap: 10px;
+    cursor: pointer;
+}
+.btn span{
+    color: #1E272E;
+    font-size: 14px;
+    line-height: 16px;
+}
+.btn span svg{
+    display: flex;
+}
+.btn_2color{
+    color: rgb(30 39 46 / 50%) !important;
+}
+
+.input_control_a{
+    height: 100%;
+    width: 100%;
+    outline: none;
+    border: none;
+    background-color: rgb(30 39 46 / 2%);
+    font-size: 14px;
+    padding: 10px 12px;
+}
+.address_input_area{
+    height: 36px;
+    width: 100%;
+}
+
+.address_form_inner{
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: column;
+    gap: 25px;
+    margin-bottom: 25px;
+}
+.select_control {
+    font-size: 14px;
+    color: rgb(30 39 46 / 65%);
+    font-weight: 500;
+    padding: 5px 10px;
+}
+.input_area_last{
+    height: 36px;
+    width: 100%;
+}
+.input_area_last:first-child{
+    margin-bottom: 25px;
+}
+
+.save_btn {
+    padding: 10px 20px;
+    background-color: #95CA33;
+    display: inline-block;
+    margin-top: 25px;
+    cursor: pointer;
+}
+.save_btn a{
+    color: #FFFFFF;
+    font-size: 14px;
+    line-height: 16px;
+    display: block;
+}
